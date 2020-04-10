@@ -26,6 +26,7 @@ public class BinaryDemo {
         int i = 1;
         int j = 2;
         System.out.println(i+j);
+        System.out.println("hot_fix changges");
 
 
 
